@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack Developer and AWS Cloud Specialist with a Master of Technology in IT and 5+ years of experience in designing scalable SaaS systems. I'm skilled in Agile project delivery, team mentoring, and optimizing UX/UI performance across multi-platform solutions.<br><br>⚡ Fun fact Chai tastes way better than Coffee | Change my mind!<br><br>📫 Reach me at amjads09@hotmail.com</p>
+<p align="left">I'm a passionate Full-Stack Developer and AWS Cloud Specialist with a Master of Technology in IT and 5+ years of experience in designing scalable SaaS systems. I'm skilled in Agile project delivery, team mentoring, and optimizing UX/UI performance across multi-platform solutions.<br><br>⚡ Fun fact Coffee tastes way better than Chai | Change my mind!<br><br>📫 Reach me at amjads09@hotmail.com</p>
 
 ###
 
